@@ -1,2 +1,2 @@
 # Hello-World
-Initial GitHub repository using Hello-World as an example
+71 year old retired mainframe programmer looking to increase my knowldege of modern programming languages and techniques.
